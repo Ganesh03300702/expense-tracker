@@ -1,6 +1,7 @@
-customtkinter
+
+streamlit
 pandas
 matplotlib
-pillow
-streamlit
-plotly
+altair
+
+
